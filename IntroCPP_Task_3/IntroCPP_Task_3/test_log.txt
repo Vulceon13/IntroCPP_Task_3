@@ -11,3 +11,45 @@ Test 8 Find Successful
 Test 9 Replace Successful
 Test 10 Append Successful
 Successful: 100.00%
+
+Date: 03/21/24 Time: 20:10:51
+Test 1 Successful
+Test 2 Append Successful
+Test 3 Prepend Successful
+Test 4 EqualTo Successful
+Test 5 Length Successful
+Test 6 CharacterAt Successful
+Test 7 ToUpper Successful
+Test 7 ToLower Successful
+Test 8 Find Successful
+Test 9 Replace Successful
+Test 10 Append Successful
+Successful: 100.00%
+
+Date: 03/21/24 Time: 20:11:16
+Test 1 Successful
+Test 2 Append Successful
+Test 3 Prepend Successful
+Test 4 EqualTo Successful
+Test 5 Length Successful
+Test 6 CharacterAt Successful
+Test 7 ToUpper Successful
+Test 7 ToLower Successful
+Test 8 Find Successful
+Test 9 Replace Successful
+Test 10 Append Successful
+Successful: 100.00%
+
+Date: 03/21/24 Time: 22:01:55
+Test 1 Successful
+Test 2 Append Successful
+Test 3 Prepend Successful
+Test 4 EqualTo Successful
+Test 5 Length Successful
+Test 6 CharacterAt Successful
+Test 7 ToUpper Successful
+Test 7 ToLower Successful
+Test 8 Find Successful
+Test 9 Replace Successful
+Test 10 Append Successful
+Successful: 100.00%
